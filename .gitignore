@@ -8,6 +8,9 @@ node_modules/
 # Compiled javascript
 nengo_progress/static/
 
+# NPM
+npm-debug.log
+
 # OS X
 .DS_Store
 
