@@ -10,3 +10,6 @@ nengo_progress/static/
 
 # OS X
 .DS_Store
+
+# Vim
+*.swp
