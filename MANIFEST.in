@@ -1,0 +1,1 @@
+recursive-include nengo_progress/static *.*
